@@ -2,6 +2,8 @@
 
 一個以 Streamlit 打包的多 Agent 工作流：Writer 生成初稿、Reviewer 審稿給建議、Rewriter 依建議改寫。側邊欄可即時切換每個 Agent 使用的模型，方便比較不同模型的寫作與審查風格。
 
+Streamlit app: https://aiothw4-123.streamlit.app/
+
 ## 參考
 
 課程: 【生成式 AI】09.為什麼大家說2025年是AI Agents元年
